@@ -8,7 +8,11 @@
 	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
 	<!--LongDescription Value="This is a long description" /-->
 	<LongDescription>
-	For those modern style mixed under and aboveground subway networks.
+		For those modern style mixed under and aboveground subway networks.
+
+		This is not a separate pack of assets like other mods. But instead it just enables you to intersect any road and pathway with subway tracks. It is fully compatible with Road Builder or any other mods that change roads. Also works with Traffic (idk if this has a usecase lol).
+
+		This was done at 3 in the morning so I'm not bothered to look into removing the electric rail in the middle. Also the surface below subway tracks looks a bit different then that of roads so you might notice a slight color difference. I hope you have fun with this.
 	</LongDescription>
 	<!--Thumbnail-->
 	<Thumbnail Value="Properties/Thumbnail.png" />
